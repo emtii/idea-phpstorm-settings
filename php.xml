@@ -13,6 +13,9 @@
     <interpreters>
       <interpreter home="/usr/local/Cellar/php70/7.0.12_5/bin/php" id="9866124a-2e71-4e7d-9f3a-9baaaec33e62" name="PHP 7.0.12" debugger_id="php.debugger.XDebug" />
       <interpreter home="/usr/bin/php" id="9c544976-15bc-4319-bcb2-8e3680d7e3b9" name="PHP 5.6" debugger_id="php.debugger.XDebug" />
+      <interpreter home="vagrant:///Users/bestit-emtii/Workspace/shopware-vagrant/usr/bin/php7.0" id="55f11a0b-bad0-4752-8d73-3096c28778e4" name="Remote PHP" debugger_id="php.debugger.XDebug">
+        <remote_data VAGRANT_FOLDER="$USER_HOME$/Workspace/shopware-vagrant" INTERPRETER_PATH="/usr/bin/php7.0" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+      </interpreter>
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
