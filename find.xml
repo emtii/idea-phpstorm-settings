@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../database/migrations/2017_06_01_000001_create_budgets_table.php - [bestit-harvest-dashboard]'" />
-    <option name="defaultScopeName" value="File '.../database/migrations/2017_06_01_000001_create_budgets_table.php - [bestit-harvest-dashboard]'" />
-    <option name="SEARCH_SCOPE" value="File '.../database/migrations/2017_06_01_000001_create_budgets_table.php - [bestit-harvest-dashboard]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
