@@ -2,7 +2,7 @@
   <tool name="php-cs-fixer" description="php-cs-fixer v2" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="/usr/local/bin/php-cs-fixer-v2.phar" />
-      <option name="PARAMETERS" value="fix --verbose --rules=@PSR2 &quot;$FileDir$/$FileName$&quot;" />
+      <option name="PARAMETERS" value="fix --rules=@PSR2 &quot;$FileDir$/$FileName$&quot;" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
