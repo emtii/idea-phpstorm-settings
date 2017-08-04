@@ -23,14 +23,21 @@
   </action>
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
+  <action id="InsertLiveTemplate" />
   <action id="RecentFiles" />
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
   <action id="SendEOF" />
   <action id="ShelvedChanges.Diff" />
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="meta j" />
+  </action>
   <action id="Tool_External Tools_php-cs-fixer">
     <keyboard-shortcut first-keystroke="shift meta c" />
+  </action>
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="meta escape" />
   </action>
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
