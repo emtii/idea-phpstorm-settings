@@ -2,16 +2,17 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="ProjectsInterface" type="PHP" />
-      <mapping pattern="ProjectsInterface.php" type="PLAIN_TEXT" />
+      <mapping pattern="ReportGeneratorInterface" type="PHP" />
+      <mapping pattern="foo" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig.template" type="PLAIN_TEXT" />
-      <mapping pattern="1_1" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
-      <mapping pattern="user" type="PLAIN_TEXT" />
       <mapping pattern="user_delete.sh" type="PLAIN_TEXT" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />
-      <mapping pattern="foo" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="user" type="PLAIN_TEXT" />
+      <mapping pattern="1_1" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping pattern="ProjectsInterface.php" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
