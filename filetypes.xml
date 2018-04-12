@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="ReportGeneratorInterface" type="PHP" />
+      <mapping pattern="SchemaOrgTwigServiceProvider" type="PHP" />
       <mapping pattern="ProjectsInterface" type="PHP" />
       <mapping pattern=".editorconfig.template" type="PLAIN_TEXT" />
       <mapping pattern="ProjectsInterface.php" type="PLAIN_TEXT" />
@@ -15,8 +16,8 @@
       <mapping pattern="1_1" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
-      <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="mmdb" type="PLAIN_TEXT" />
+      <mapping ext="template" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
